@@ -1,0 +1,30 @@
+
+body {
+	height: 100%;
+	width: 100%;
+	background-image: url(cliffs.jpg);
+	background-position: 25%, 75%;
+}
+
+section {
+	margin: auto;
+	padding-top: 250px;
+	width: 80%;
+	height: 45%;
+	text-align: center;
+}
+
+p {
+	color: #051B38;
+	font-size: 35px;
+}
+
+#getQuote{
+	border-radius: 5px;
+	width: 90px;
+	font-size: 15px;
+	background-color: #ADAEAF;
+	color: #051B38;
+	cursor: pointer;
+}
+
